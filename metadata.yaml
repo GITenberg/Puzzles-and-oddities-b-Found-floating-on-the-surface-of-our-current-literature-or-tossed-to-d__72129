@@ -1,0 +1,27 @@
+_repo: Puzzles-and-oddities-b-Found-floating-on-the-surface-of-our-current-literature-or-tossed-to-d__72129
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawson, Mary A. A.
+    gutenberg_agent_id: '56553'
+    url: http://www.gutenberg.org/2009/agents/56553
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72129'
+language: en
+pgterms:marc904: https://archive.org/details/puzzlesodditiesf00daws/mode/2up
+pgterms:marc905: 20220827091419dawson
+pgterms:marc906: '1876'
+pgterms:marc907: US
+production_note: Debrah Thompson and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bRussell Brothers, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Puzzles and oddities : $b Found floating on the surface of our current literature,
+  or tossed to dry land by the waves of memory'
+url: http://www.gutenberg.org/ebooks/72129
