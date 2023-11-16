@@ -1,11 +1,16 @@
 _repo: Puzzles-and-oddities-b-Found-floating-on-the-surface-of-our-current-literature-or-tossed-to-d__72129
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72129-h/images/cover.jpg
 creator:
   author:
     agent_name: Dawson, Mary A. A.
     gutenberg_agent_id: '56553'
     url: http://www.gutenberg.org/2009/agents/56553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72129#Puzzles-and-oddities-b-Found-floating-on-the-surface-of-our-current-literature-or-tossed-to-d_
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72129'
